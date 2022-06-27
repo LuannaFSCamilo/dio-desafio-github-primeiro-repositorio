@@ -1,4 +1,4 @@
-#GIT & GITHUB
+# GIT & GITHUB
 
 💻 Revisão ➡️ outras pessoas ➡️ feedback ➡️ várias versões
 💻 Editor ➡️ interpretador de código ➡️ compilador
@@ -35,7 +35,7 @@ Comandos básicos para um bom desempenho no terminal
 💻 Após o arquivo estar preparado para commit ➡️ $ git push origin main (envia todos os commits locais para a Nuvem)
 
 
-[Instalar Git] (https://git-scm.com/downloads)
+[Instalar Git](https://git-scm.com/downloads)
 
 
 -- A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Sefuro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
