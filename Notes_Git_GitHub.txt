@@ -1,4 +1,4 @@
-**GIT & GITHUB
+**GIT & GITHUB**
 
 💻 Revisão ➡️ outras pessoas ➡️ feedback ➡️ várias versões
 💻 Editor ➡️ interpretador de código ➡️ compilador
