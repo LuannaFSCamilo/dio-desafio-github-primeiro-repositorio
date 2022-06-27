@@ -1,0 +1,38 @@
+#GIT & GITHUB
+
+-- Revisão -> outras pessoas -> feedback-> várias versões
+-- Editor -> interpretador de código-> compilador
+-- Git -> ferramenta-> sistema de versionamento de código
+-- Software não é feito se não for colaborativo, não é feito sozinho
+
+**Navegação via Command Line
+
+-- GUI X CLI
+-- Git é um software com design voltado para outro tipo de programa
+-- CLI – Command Line Interface – interagir por linha de comando
+-- GUI – Graphical User Interface
+-- CMD – Terminal
+-- Flags: /S /Q
+
+**Comandos básicos para um bom desempenho no terminal
+
+-- Listar – dir
+-- Navegar entre as pastas - cd/
+-- Retroceder - cd..
+-- Limpar o terminal – cls
+-- TAB – autocompleta nomes
+-- Criar pasta/diretório – mkdir nome_pasta
+-- printa o que você digitar- echo
+-- > joga em um arquivo
+-- C:\workspace>echo hello > hello.txt
+-- deletar – del workspace (limpa todos os arquivos do diretório/pasta workspace)
+-- remover repositório/pasta (remove directory) – rmdir workspace 
+
+
+**[Instalar Git] (https://git-scm.com/downloads)
+
+-- A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Sefuro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+-- A encriptação gera conjunto de characteres identificador de 40 dígitos.
+--Gitgnore (ignora arquivos desnecessários para o versionamento)
+-- .md (linguagem de marcação/formatação) – [Markdown](Markdownguide.org/basic-syntax/)
+-- O Git Bash é um terminal estendido para otimizar o uso do Git.
