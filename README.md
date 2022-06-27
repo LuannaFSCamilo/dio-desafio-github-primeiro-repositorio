@@ -3,3 +3,5 @@ Reforçando o conhecimento em Git/GitHub com um Desafio de Projeto totalmente pr
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Instalar Git](https://git-scm.com/downloads)
